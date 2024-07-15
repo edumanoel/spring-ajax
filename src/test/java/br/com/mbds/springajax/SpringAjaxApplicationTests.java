@@ -1,4 +1,4 @@
-package br.com.mbds.spring_ajax;
+package br.com.mbds.springajax;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

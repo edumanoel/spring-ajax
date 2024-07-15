@@ -1,4 +1,4 @@
-package br.com.mbds.spring_ajax;
+package br.com.mbds.springajax;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
